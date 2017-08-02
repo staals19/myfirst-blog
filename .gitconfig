@@ -1,0 +1,6 @@
+[user]
+	name = staals19
+	email = staals19@polyprep.org
+[core]
+	autocrlf = true
+	safecrlf = false
